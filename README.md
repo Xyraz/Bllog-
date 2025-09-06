@@ -5,7 +5,8 @@ Which countries are more likely to forced to give up on their child due poverty?
 -Peru<br>
 -Cuba <br?
 -Hawaii
-​
+​<br>
+<br>
 <p> 
 Traditional asian families prefer boys and it could lead to adoption if they find out if it is a girl.
 For example <br>
