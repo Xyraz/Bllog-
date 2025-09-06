@@ -1,10 +1,10 @@
-<h1>Child Traffic</h1>h1>
+<h1>Child Traffic</h1>
 Which countries are more likely to forced to give up on their child due poverty?<br>
 -Brasil<br>
 -Argentina<br>
 -Peru<br>
 -Cuba <br?
--Hawaii
+-Hawaii<br>
 ​<br>
 <br>
 <p> 
